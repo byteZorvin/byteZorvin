@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1 align="center">Hi!, I'm Mehul Chauhan <img src="https://user-images.githubusercontent.com/75808688/166622945-2c3763db-2684-42a8-9406-7f6d505782ca.gif"  width="80px"></h1>
+
+
+<h1 align="center">Hi!, I'm Mehul Chauhan <img src="https://user-images.githubusercontent.com/75808688/166623448-2e700c16-5908-4bed-a725-04b0bfe1d89c.gif"  width="30px"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://user-images.githubusercontent.com/75808688/166622521-e004a637-3c42-4455-bd4a-0f696503b192.gif"> 
 
