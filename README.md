@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehul0011&label=Profile%20views&color=0e75b6&style=flat" alt="mehul0011" /> </p>
 <img align="right" style="border-bottom-right-radius: 5em 4em;
-border-bottom-left-radius:  5em 3em;" width="400px" src="https://user-images.githubusercontent.com/75808688/166622521-e004a637-3c42-4455-bd4a-0f696503b192.gif"> 
+border-bottom-left-radius:  5em 3em;" width="380px" src="https://user-images.githubusercontent.com/75808688/166622521-e004a637-3c42-4455-bd4a-0f696503b192.gif"> 
 <h4>- 🌱 I’m currently learning Backend development.</h4>
 
 <h3 align="left">Connect with me:</h3>
