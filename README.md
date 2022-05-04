@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Mehul Chauhan <img src="https://user-images.githubusercontent.com/75808688/166622521-e004a637-3c42-4455-bd4a-0f696503b192.gif"> </h1>
+<h1 align="center">Hi 👋, I'm Mehul Chauhan </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://user-images.githubusercontent.com/75808688/166622521-e004a637-3c42-4455-bd4a-0f696503b192.gif"> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehul0011&label=Profile%20views&color=0e75b6&style=flat" alt="mehul0011" /> </p>
