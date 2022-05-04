@@ -10,13 +10,10 @@ border-bottom-left-radius:  5em 3em;" width="380px" src="https://user-images.git
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mehul39564013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehul39564013" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehul-chauhan-15189a200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-chauhan-15189a200" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mehul0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mehul0011" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chauhan24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chauhan24" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mehul_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mehul_chauhan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imehul24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imehul24" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mehul24/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mehul24/practice/" height="30" width="40" /></a>
+ <a href="https://twitter.com/mehul39564013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehul39564013" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/mehul-chauhan-15189a200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-chauhan-15189a200" height="30" width="40" /></a> 
+ <a href="https://auth.geeksforgeeks.org/user/mehul24/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mehul24/practice/" height="30" width="40" /></a>
 </p> 
 <br>
 
